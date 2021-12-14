@@ -1,1 +1,1 @@
-# Demo https://you-got-it.netlify.app
+# Having bad day? *[You got it](https://you-got-it.netlify.app/)*.
