@@ -35,8 +35,8 @@ h1 {
   -webkit-filter: blur(0.002em);
           filter: blur(0.002em);
   padding: 50px;
-  -webkit-animation: showMe 2.5s linear forwards;
-          animation: showMe 2.5s linear forwards;
+  -webkit-animation: showMe 4s linear forwards;
+          animation: showMe 4s linear forwards;
 }
 
 h1 span {
